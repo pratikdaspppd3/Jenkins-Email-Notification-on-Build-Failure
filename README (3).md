@@ -27,7 +27,11 @@ This project demonstrates how to configure **email notifications in Jenkins** us
 
 📌 Example:  
 
+<<<<<<< HEAD
 ![gmail config](/images/gmail-confi.png)  
+=======
+![gmail config](/images/gmail-confi.PNG)  
+>>>>>>> 6713d0751e0066d321091f0c32460ffe98d3c1b0
 
 ---
 
@@ -50,7 +54,11 @@ http://<EC2-Public-IP>:8080
 
 📌 Example:  
 
+<<<<<<< HEAD
 ![jenkins config](/images/email-set-up.png)  
+=======
+![jenkins config](/images/email-set-up.PNG)  
+>>>>>>> 6713d0751e0066d321091f0c32460ffe98d3c1b0
 
 ---
 
@@ -81,11 +89,19 @@ http://<EC2-Public-IP>:8080
 
 - **Build Failure**  
 
+<<<<<<< HEAD
 ![build fails](/images/build-fails.png)  
 
 - **Email Notification Received**  
 
 ![notification email](/images/notification.png)  
+=======
+![build fails](/images/build-fails.PNG)  
+
+- **Email Notification Received**  
+
+![notification email](/images/notification.PNG)  
+>>>>>>> 6713d0751e0066d321091f0c32460ffe98d3c1b0
 
 ---
 
