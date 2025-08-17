@@ -85,7 +85,7 @@ http://<EC2-Public-IP>:8080
 
 - **Email Notification Received**  
 
-![notification email](/Images/notification.png)  
+![notification email](/Images/Notification.png)  
 
 ---
 
